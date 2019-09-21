@@ -29,19 +29,14 @@ body {
 
 h1 {
     font-family: sans-serif;
-    font-size: 72pt;
-    letter-spacing: -3pt;
+    font-size: 2.5rem;
     color: white;
+    text-align: center;
 }
 
 p {
     font-family: sans-serif;
-    font-size: 28pt;
-    letter-spacing: -1.5pt;
+    font-size: 1.8rem;
     color: white;
-    margin-top: 1rem;
-}
-
-.mt{
-    margin-top: 5rem;
+    margin-top: 2.5rem;
 }
